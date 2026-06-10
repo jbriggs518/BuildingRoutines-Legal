@@ -7,8 +7,6 @@
 **Last Updated:** 2026-06-09
 **Governing Law:** Federal law of the United States and the laws of the State of New York
 
-> **Counsel review required.** This document was drafted as a starting point that reflects the App's actual feature set and the legal frameworks listed above (including, among others, the Federal Arbitration Act, the FTC Act, the DMCA, COPPA, the New York SHIELD Act, New York General Business Law §§ 349 and 527-a, and applicable provisions of New York Civil Practice Law and Rules). It is **not** legal advice. Before publishing publicly or submitting to the App Store, have it reviewed by a licensed attorney admitted in the State of New York.
-
 > **PLEASE READ THESE TERMS OF USE CAREFULLY. THEY INCLUDE A BINDING ARBITRATION CLAUSE AND CLASS-ACTION WAIVER IN SECTION 18 THAT, EXCEPT AS PROVIDED THEREIN, REQUIRES YOU AND BUILDING ROUTINES TO RESOLVE DISPUTES ON AN INDIVIDUAL BASIS THROUGH BINDING ARBITRATION. YOU HAVE THE RIGHT TO OPT OUT OF ARBITRATION AS DESCRIBED IN SECTION 18.7.**
 
 ---
