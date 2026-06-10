@@ -8,9 +8,6 @@
 **Governing Law:** Federal law of the United States and the laws of the State of New York
 
 > **Plain-English summary (not a substitute for the policy below):** Building Routines is a fitness and nutrition tracker. Your workouts, meals, body data, and Apple Health information stay on your device. We do not operate a server that stores your personal data. The only outside service the App contacts is the OpenFoodFacts public food database, and it only ever receives a barcode number or a search term you typed - never your identity. Subscriptions are handled by Apple. We do not sell your data, ever.
-
-> **Counsel review required.** This document was drafted as a starting point that reflects the App's actual data flows and the legal frameworks listed above. It is **not** legal advice. Before publishing publicly or submitting to the App Store, have it reviewed by a licensed attorney admitted in the State of New York.
-
 ---
 
 ## 1. Important Health & Medical Disclaimer
